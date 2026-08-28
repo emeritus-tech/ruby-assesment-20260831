@@ -45,4 +45,6 @@ gh repo create emeritus-tech/coding-assessment-rails-2026-CANDIDATE --public
 git push --mirror git@github.com:emeritus-tech/coding-assessment-rails-2026-CANDIDATE.git
 ```
 
+### 4. Ensure that you have deleted candidate-repo after the interview
+
 Do not add candidates to `coding-assessment-rails-2026`. Each person gets only their own private copy.
